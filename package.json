@@ -1,0 +1,11 @@
+{
+  "name": "react-node-project2",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.3",
+    "mongoose": "^4.11.10",
+    "morgan": "^1.8.2"
+  }
+}
